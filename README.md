@@ -73,3 +73,7 @@ While these subgroup models explain a modest amount of the variance, they provid
 This analysis underscores the potential benefits of targeted sleep interventions, suggesting that optimizing sleep may lead to better cognitive and emotional outcomes, particularly when stress levels are taken into account.
 
 Feel free to explore the accompanying notebook for further details and visualizations.
+
+## Acknowledgments
+
+This project was completed as part of a guided learning experience with **Maven Analytics**. Special thanks to Maven Analytics for providing structured guidance and high-quality datasets to enhance analytical skills.
